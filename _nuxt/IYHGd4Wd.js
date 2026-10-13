@@ -1,0 +1,1 @@
+import{N as a,T as s,tt as t,z as e}from"./Bwyui_j6.js";import{t as m}from"./CCXxh1fg.js";e();var p=a({name:"pump",__name:"index",setup:a=>(a,e)=>(t(),s(m,{variant:"page"}))});export{p as default};

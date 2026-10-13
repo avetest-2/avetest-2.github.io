@@ -1,0 +1,1 @@
+import{Ct as e,Vt as s,gt as t,z as a}from"./Bwyui_j6.js";import{m as r}from"./BgKcfz1z.js";a(),e();var o=({from:e,replacement:a,scope:o,version:i,ref:m,type:p="API"},n)=>{t(()=>s(n),s=>{s&&r(o,`[${p}] ${e} is about to be deprecated in version ${i}, please use ${a} instead.\nFor more detail, please visit: ${m}\n`)},{immediate:!0})};export{o as t};

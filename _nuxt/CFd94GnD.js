@@ -1,0 +1,1 @@
+import{Ls as e,Xt as i}from"./Bk1-mzt5.js";var t=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{t};
