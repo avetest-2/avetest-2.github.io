@@ -1,0 +1,1 @@
+import{F as i}from"./D8qOGCBi.js";import{Hr as o}from"./firMNToO.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

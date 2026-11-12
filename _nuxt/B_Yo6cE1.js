@@ -1,0 +1,1 @@
+import{Do as r,So as o,_o as t,bo as n}from"./firMNToO.js";function s(s,a,e){if(!r(e))return!1;var i=typeof a;return!!("number"==i?t(e)&&o(a,e.length):"string"==i&&a in e)&&n(e[a],s)}export{s as t};
